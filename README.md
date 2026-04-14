@@ -85,7 +85,7 @@ Patients_project/
 
 5. Open **http://localhost:8501** in your browser.
 
-Or pull the pre-built image:
+Or pull the pre-built Docker image:
 
 ```bash
 docker pull archisman2006/patient
