@@ -1,5 +1,7 @@
 # 🏥 Patient Management System
 
+🔗 **Live Demo:** [patient-management-system-lycf.onrender.com](https://patient-management-system-lycf.onrender.com)
+
 A personal full-stack web application for managing patient health records, built with **FastAPI** and **Streamlit**.
 
 > This is a personal project built to explore and learn full-stack development with Python — combining a RESTful API backend with an interactive, modern frontend.
